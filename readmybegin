@@ -1,0 +1,100 @@
+programming language:
+1.english language needs for communication and here grammar is essential for making a sentence
+2.the above statement is the purpose for human basic things but when there is a name called "computer"
+here the language is the one to communicate with them.
+3.for english there's should be grammar but in computer there's should be a syntax.
+4.computer language needs for communication and here syntax is essential for making a sentence
+5.example:
+english:
+he ate a choco---right
+choco a ate he---wrong
+computer:
+import pandas as pd---right
+pd as pandas import---wrong
+
+6.a machine is used as a tool for human to reduce time for them or to get a problem's solution in simple way
+7.so here there are several programming languages used to communicate the machines and its like there
+are more human languages used to communicate the humans.
+8.application of programming languages:
+gaming,banking,machine learning
+
+variables:
+1.before gonna start the variables you have to be recollect the details about a data and information.
+2.data is a raw and unorganized facts which is to be processed as well its used to develop ideas/conclusions
+ and its in the format of numbers and letters also data is not rely on information accompaning data is a low
+ level knowledge in addition to data is measured in bytes and bits along with data is structured into tabular data
+,graph,data tree not only data is used for analysis inclusive of data is not gonna return a meaningful context cause
+its just a data of something for example:a student data marks.
+
+3.information gives the meaningful context after processing from data facts besides its a structured 
+format or well refined output.It is measured in time,quantity etc in conjunction with information is relied 
+on data on top of information is structured by language,thoughts,ideas besides being its a second level knowledge
+besides the fact that it has a decision making too together with there is an example for information:an average
+marks of all students data in a class which produces an information.
+
+4.OK now a variable is a container where its used to store data/info or data/info values in it for example:
+here is the syntax:variable_name=data_value 
+I meant a=13.5 b="I am Adharsh" as I said earlier its seems like a "data" where there can be specific
+thing of someone or some thing.But when its a specifically of entire thing of some things 
+here its a term called "information".
+
+5.In above sample data:a is a variable and 13.5 is a data assigns into a variable "a".
+6.simply you can fixed that as variable=var(where)+i(User)+able(can Able to store data or info)
+7.NOTE:variable can store data/values can be stored in temporary storage spaces.
+
+
+Decision Making statements:
+1.Simply its like just assume that there is a condition which is in front of you
+if the rain does stop then you can pay football but if the rain doesn't stop then you dont allow to
+play football.
+
+syntax:                               example:                  
+if(condition)                         if(its raining)         
+statements are to be executed         sit inside
+else                                  else
+statements are to be executed         play football
+
+but there is only one condition is allowed for the answer.
+
+
+Looping statements:
+1.Repeating the tasks multiple times until the condition is satisfied.
+for example:you keep on filling the bucket with the mug of water "while" its not full.
+another eg:you keep repeating the music "until" you close the music app
+eg3:get your salary credited at the end of "each" month.
+syntax:
+while loop:
+while(TRUE){
+  statements are being executed when it satisfies the condition TRUE then it comes out from the loop}
+
+
+Functions:
+1.here in reality:
+we might to do the daily routine functions like eating,bathing,walking etc...
+but these are done by human or some species
+
+function-->is a block of code which performs a specific task
+
+eg2:in banking there are common three functions are held:
+1.deposit-function to deposit money
+2.withdraw-function to withdraw money
+3.balance-function to check balance
+
+
+
+oBJECT oRIENTED PROGRAMMING
+OOPS is basically defines in real life examples too:
+you were surrounded by objects like motorcycle,bicycle,car etc.
+
+In oops there are the concept called classes and objects
+Class is a template/blueprint for real-world entities.
+
+they have properties and behaviours not only an object or things have their properties at the same time as behaviours.
+for example :mobilephone,washing machine,music keyboard.
+
+properties:color,cost,battery life
+behaviours:watch videos,play games,make calls
+
+Objects are specific instance of a class.
+
+for example:assume the abstract of mobile phone which produces the models like apple,motorola,samsung 
